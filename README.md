@@ -102,8 +102,9 @@ Armenian-Kindergarten-Analysis-ml/
 │       └── kindergartens_preprocessed.csv
 │
 ├── notebooks/
-│   └── Kindergarten.ipynb           # Main analysis notebook
-│
+│   └── MP1_KIDS.ipynb           # Main analysis notebook
+│   └── Kindergarten.ipynb
+|
 ├── figures/                          # Generated visualizations
 │   ├── 01_distributions.png
 │   ├── 02_correlation_heatmap.png
