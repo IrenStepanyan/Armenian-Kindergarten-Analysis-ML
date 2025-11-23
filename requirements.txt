@@ -1,0 +1,48 @@
+# Core Data Science Libraries
+pandas==2.2.0
+numpy==1.26.3
+
+# Web Scraping
+selenium==4.16.0
+beautifulsoup4==4.12.3
+lxml==5.1.0
+
+# Statistical Analysis
+scipy==1.11.4
+statsmodels==0.14.1
+
+# Machine Learning (for preprocessing)
+scikit-learn==1.4.0
+
+# Visualization
+matplotlib==3.8.2
+seaborn==0.13.1
+
+# Utilities
+requests==2.31.0
+urllib3==2.1.0
+
+# Jupyter (if running locally)
+jupyter==1.0.0
+notebook==7.0.6
+ipykernel==6.28.0
+
+# Additional Utilities
+python-dateutil==2.8.2
+pytz==2023.3
+six==1.16.0
+
+# Optional: For progress bars during scraping
+tqdm==4.66.1
+
+# Optional: For better data validation
+pydantic==2.5.3
+
+# Optional: For advanced text processing (if needed later)
+# nltk==3.8.1
+# textblob==0.17.1
+
+# Development Tools (optional)
+# pytest==7.4.3
+# black==23.12.1
+# flake8==7.0.0
