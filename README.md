@@ -341,15 +341,6 @@ For questions, suggestions, or collaboration opportunities:
 
 ---
 
-## 🌟 Star History
-
-If you find this project useful, please consider giving it a ⭐!
-
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/armenian-kindergarten-analysis&type=Date)](https://star-history.com/#yourusername/armenian-kindergarten-analysis&Date)
-
----
-
-
 <div align="center">
 
 **Made with ❤️ in Armenia 🇦🇲**
